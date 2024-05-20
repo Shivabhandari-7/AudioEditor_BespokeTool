@@ -1,0 +1,90 @@
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 188, in play_generated_audio
+    self.play_obj = sa.play_buffer(play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 188, in play_generated_audio
+    self.play_obj = sa.play_buffer(play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 188, in play_generated_audio
+    self.play_obj = sa.play_buffer(play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 132, in play
+    self.play_obj = sa.play_buffer(self.play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 132, in play
+    self.play_obj = sa.play_buffer(self.play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 132, in play
+    self.play_obj = sa.play_buffer(self.play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 132, in play
+    self.play_obj = sa.play_buffer(self.play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 188, in play_generated_audio
+    self.play_obj = sa.play_buffer(play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 188, in play_generated_audio
+    self.play_obj = sa.play_buffer(play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
+Traceback (most recent call last):
+  File "/Users/shivabhandari/Desktop/Audio/editor.py", line 188, in play_generated_audio
+    self.play_obj = sa.play_buffer(play_data, num_channels=2, bytes_per_sample=self.audio.sample_width, sample_rate=self.audio.frame_rate)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivabhandari/Desktop/Audio/venv/lib/python3.12/site-packages/simpleaudio/shiny.py", line 60, in play_buffer
+    play_id = _sa._play_buffer(audio_data, num_channels, bytes_per_sample,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Buffer size (in bytes) is not a multiple of bytes-per-sample and the number of channels.
+
